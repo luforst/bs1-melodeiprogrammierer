@@ -20,4 +20,4 @@ for note in melodei:
         befehl = "SOUND Lautspr, ({1},B1)\n".format(PIN, toene[note])
     code += befehl
 
-print("\n" + code)
+print("\n" + code + "\n END")
