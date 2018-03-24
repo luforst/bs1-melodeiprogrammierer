@@ -21,3 +21,4 @@ for note in melodei:
     code += befehl
 
 print("\n" + code + "\n END")
+input()
