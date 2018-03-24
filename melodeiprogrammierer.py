@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 """Programm, um ein PBASIC-Programm für den BASIC Stamp 1 automatisiert zu schreiben.
+
+Das erzeugte PBASIC-Programm lässt eine Melodei erklingen und automatisiert die Zuordnung von Tönen zu PBASIC-spezifischen Tonnummern.
+
 GROSSBUCHSTABEN entsprechen erhöhten Halbtönen, z.B. C = cis
 x bezeichnet ganz kurze Pausen zwischen Tönen, wie zwischen zwei gleichen Tönen
 Leerzeichen bezeichnet Pausen"""
