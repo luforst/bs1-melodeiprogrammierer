@@ -9,7 +9,7 @@ Das erzeugte PBASIC-Programm lässt eine Melodei erklingen und automatisiert die
 * x bezeichnet ganz kurze Pausen zwischen Tönen, wie zwischen zwei gleichen Tönen
 * Leerzeichen bezeichnet Pausen
 
-## Zuordnungstabelle
+### Zuordnungstabelle der Töne
 | Ton     | c | cis / des | d | dis / es | e | f | fis / ges | g | gis / as | a | ais / b | h |
 |---------|---|-----------|---|----------|---|---|-----------|---|----------|---|---------|---|
 | Eingabe | c | C         | d | D        | e | f | F         | g | G        | a | b       | h |
